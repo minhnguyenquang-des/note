@@ -1,0 +1,6 @@
+{
+  "name": "HìnhHọcNote — Math & 3D Geometry Studio",
+  "description": "Web app ghi chú toán học và hình học không gian 3D tương tác: viết tay mượt theo lực nhấn, nhận diện hình học 2D, khối 3D nét khuất, cắt thiết diện, mở mạng và công thức LaTeX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
